@@ -1,0 +1,11 @@
+// Place your settings in this file to overwrite default and user settings.
+{
+  "files.exclude": {
+    "**/.git": true,
+    "**/.svn": true,
+    "**/.hg": true,
+    "node_modules": false,
+    "**/.DS_Store": true
+  },
+  "eslint.enable": true
+}
