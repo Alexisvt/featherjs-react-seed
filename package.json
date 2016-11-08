@@ -37,7 +37,7 @@
     "feathers-errors": "^2.4.0",
     "feathers-hooks": "^1.5.8",
     "feathers-nedb": "^2.5.1",
-    "feathers-rest": "^1.5.0",
+    "feathers-rest": "^1.5.2",
     "feathers-socketio": "^1.4.1",
     "nedb": "^1.8.0",
     "passport": "^0.3.2",
