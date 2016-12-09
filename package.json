@@ -26,7 +26,7 @@
     "mocha": "mocha test/ --recursive --compilers js:babel-register"
   },
   "dependencies": {
-    "babel-polyfill": "^6.16.0",
+    "babel-polyfill": "^6.20.0",
     "body-parser": "^1.15.2",
     "compression": "^1.6.2",
     "cors": "^2.8.1",
