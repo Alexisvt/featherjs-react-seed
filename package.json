@@ -67,7 +67,7 @@
     "open-browser-webpack-plugin": "^0.0.2",
     "redux-logger": "^2.7.0",
     "request": "^2.75.0",
-    "webpack": "^1.13.2",
+    "webpack": "^2.2.1",
     "webpack-dev-middleware": "^1.8.4",
     "webpack-dev-server": "^1.16.2",
     "webpack-hot-middleware": "^2.13.0"
