@@ -29,7 +29,7 @@
     "babel-polyfill": "^6.16.0",
     "body-parser": "^1.15.2",
     "compression": "^1.6.2",
-    "cors": "^2.8.1",
+    "cors": "^2.8.3",
     "feathers": "^2.0.2",
     "feathers-authentication": "^0.7.11",
     "feathers-client": "^1.6.1",
