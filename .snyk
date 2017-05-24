@@ -1,0 +1,36 @@
+# Snyk (https://snyk.io) policy file, patches or ignores known vulnerabilities.
+version: v1.7.1
+ignore: {}
+# patches apply the minimum changes required to fix a vulnerability
+patch:
+  'npm:ms:20170412':
+    - socket.io > socket.io-adapter > debug > ms:
+        patched: '2017-05-24T23:43:04.345Z'
+    - compression > debug > ms:
+        patched: '2017-05-24T23:43:04.345Z'
+    - socket.io > socket.io-adapter > socket.io-parser > debug > ms:
+        patched: '2017-05-24T23:43:04.345Z'
+    - feathers-socketio > socket.io > socket.io-adapter > socket.io-parser > debug > ms:
+        patched: '2017-05-24T23:43:04.345Z'
+    - feathers-client > feathers-socketio > socket.io > socket.io-adapter > socket.io-parser > debug > ms:
+        patched: '2017-05-24T23:43:04.345Z'
+    - feathers-client > feathers-socketio > socket.io > socket.io-client > socket.io-parser > debug > ms:
+        patched: '2017-05-24T23:43:04.345Z'
+    - feathers-client > feathers-socketio > socket.io > engine.io > debug > ms:
+        patched: '2017-05-24T23:43:04.345Z'
+    - feathers-client > feathers-socketio > socket.io > socket.io-parser > debug > ms:
+        patched: '2017-05-24T23:43:04.345Z'
+    - feathers-socketio > socket.io > socket.io-adapter > debug > ms:
+        patched: '2017-05-24T23:43:04.345Z'
+    - feathers-client > feathers-socketio > socket.io > socket.io-adapter > debug > ms:
+        patched: '2017-05-24T23:43:04.345Z'
+    - socket.io > socket.io-client > debug > ms:
+        patched: '2017-05-24T23:43:04.345Z'
+    - feathers-socketio > socket.io > socket.io-client > debug > ms:
+        patched: '2017-05-24T23:43:04.345Z'
+    - feathers-client > feathers-socketio > socket.io > socket.io-client > debug > ms:
+        patched: '2017-05-24T23:43:04.345Z'
+    - feathers-client > feathers-socketio > socket.io > debug > ms:
+        patched: '2017-05-24T23:43:04.345Z'
+    - feathers-client > feathers-socketio > socket.io > socket.io-client > engine.io-client > debug > ms:
+        patched: '2017-05-24T23:43:04.345Z'
